@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChargeReminderApp</string>
+    <string name="enable_reminder">Enable Reminder</string>
+    <string name="status_inactive">Status: Inactive</string>
+</resources>
